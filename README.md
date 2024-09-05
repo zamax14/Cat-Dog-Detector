@@ -7,7 +7,7 @@
 -   Probar la app con imágenes nunca vistas
 
 ## Recursos
-[Presentacion](https://docs.google.com/presentation/d/1fgW-bJf6vQpB-XcbAn30ao21Jh5VFdlGjxbg7Cyigb4/edit#slide=id.g2c844174b42_50_16)
+[Presentacion](https://docs.google.com/presentation/d/1fgW-bJf6vQpB-XcbAn30ao21Jh5VFdlGjxbg7Cyigb4/pub?start=false&loop=false&delayms=3000)
 
 [Dataset de imagenes de perros y gatos](https://drive.google.com/drive/u/1/folders/1wwWBkh7rHs3DSMa8YcPRkCPUslOaZpE7)
 
